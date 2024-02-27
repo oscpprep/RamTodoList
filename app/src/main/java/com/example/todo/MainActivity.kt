@@ -1,9 +1,9 @@
-package com.example.tippy
+package com.example.todo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.tippy.databinding.ActivityMainBinding
+import com.example.todo.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

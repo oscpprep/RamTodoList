@@ -1,11 +1,11 @@
-package com.example.tippy
+package com.example.todo
 
 import android.graphics.Paint.STRIKE_THRU_TEXT_FLAG
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.tippy.databinding.ItemTodoBinding
+import com.example.todo.databinding.ItemTodoBinding
 
 class TodoAdapter (
     private val todos: MutableList<Todo>
